@@ -8,6 +8,14 @@ div {
 
 .box {
     text-align: center;
+    /* height: 900px;
+    width: 25%;
+    left: 50%;
+    right: 50;
+    top: 50;
+    bottom: 50;
+    margin: auto;
+    background-color: F1F8FF; */
 }
 
 .banner {
@@ -29,11 +37,10 @@ div {
     border: 1px solid #DBDBDB;
     margin-top: 35px;
     margin-bottom: 25px;
-    text-indent:45px;
+    text-indent: 45px;
     height: 55px;
     font-size: 21px;
     border-radius: 35px;
-    
 }
 
 .login {
@@ -46,7 +53,6 @@ div {
     font-size: 25px;
     color: gray;
     margin-left: 20px;
-    
 }
 
 .div_login_reg {
@@ -56,31 +62,27 @@ div {
 .btn_vcode {
     border: 1px solid #DBDBDB;
     width: 18%;
-    font-size:17px;
+    font-size: 15px;
     color: red;
     background-color: #FFEFF0;
     margin-left: 8px;
     height: 55px;
     border-radius: 30px;
-    
 }
 
-
 .input_vcode {
-    width: 68%;
+    width: 70%;
     height: 55px;
     font-size: 21px;
     border-radius: 30px;
     border: 1px solid #DBDBDB;
-    text-indent:45px
+    text-indent: 45px
 }
 
 .div_ftpass {
     margin-top: 25px;
     margin-bottom: 25px;
     font-size: 20px;
-    
-    
 }
 
 .div_log {
@@ -92,7 +94,6 @@ div {
     font-size: 21px;
     border-radius: 30px;
     border: 1px solid #DBDBDB;
-    
 }
 
 .div_sf {
@@ -137,12 +138,12 @@ div {
     font-weight: bold;
 }
 
-.again_pass{
+.again_pass {
     width: 90%;
     border: 1px solid #DBDBDB;
     margin-top: 25px;
     margin-bottom: 5px;
-    text-indent:45px;
+    text-indent: 45px;
     height: 55px;
     font-size: 21px;
     border-radius: 30px;
