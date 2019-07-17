@@ -1,0 +1,148 @@
+/* body {
+    text-align: center;
+} */
+
+div {
+    /* border: 1px solid blue; */
+}
+
+.box {
+    text-align: center;
+}
+
+.banner {
+    max-width: 100%;
+}
+
+/* input {
+    height: 55px;
+    font-size: 21px;
+    border-radius: 25px;
+    border: 1px solid #DBDBDB;
+    width: 90%;
+    margin-top: 6px;
+    margin-bottom: 10px;
+} */
+
+.input_user {
+    width: 90%;
+    border: 1px solid #DBDBDB;
+    margin-top: 35px;
+    margin-bottom: 25px;
+    text-indent:45px;
+    height: 55px;
+    font-size: 21px;
+    border-radius: 35px;
+    
+}
+
+.login {
+    font-size: 35px;
+    font-weight: bold;
+    margin-left: 34px;
+}
+
+.reg {
+    font-size: 25px;
+    color: gray;
+    margin-left: 20px;
+    
+}
+
+.div_login_reg {
+    text-align: left;
+}
+
+.btn_vcode {
+    border: 1px solid #DBDBDB;
+    width: 18%;
+    font-size:17px;
+    color: red;
+    background-color: #FFEFF0;
+    margin-left: 8px;
+    height: 55px;
+    border-radius: 30px;
+    
+}
+
+
+.input_vcode {
+    width: 68%;
+    height: 55px;
+    font-size: 21px;
+    border-radius: 30px;
+    border: 1px solid #DBDBDB;
+}
+
+.div_ftpass {
+    margin-top: 25px;
+    margin-bottom: 25px;
+    font-size: 20px;
+    
+    
+}
+
+.div_log {
+    width: 83%;
+    background-color: F65C54;
+    font-size: 27px;
+    color: #FFEFF0;
+    height: 55px;
+    font-size: 21px;
+    border-radius: 30px;
+    border: 1px solid #DBDBDB;
+    
+}
+
+.div_sf {
+    margin-top: 35px;
+    margin-bottom: 10px;
+}
+
+.div_dy {
+    margin-right: 20px;
+}
+
+.div_der {
+    margin-left: 20px;
+}
+
+.qq {
+    max-width: 8%;
+}
+
+.wx {
+    max-width: 8%;
+    margin-left: 28px;
+}
+
+.wb {
+    max-width: 8%;
+    margin-left: 28px;
+}
+
+.div_tkys {
+    margin-top: 35px;
+    margin-bottom: 5px;
+}
+
+.color {
+    color: 3BA6E4;
+    font-weight: bold;
+}
+
+.cl {
+    color: 3BA6E4;
+    font-weight: bold;
+}
+
+.again_pass{
+    width: 90%;
+    border: 1px solid #DBDBDB;
+    margin-top: 25px;
+    margin-bottom: 5px;
+    text-indent:45px;
+    height: 55px;
+    font-size: 21px;
+    border-radius: 30px;
+}
